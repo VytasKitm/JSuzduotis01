@@ -3,8 +3,10 @@
 
 let amzius = 37;
 
+function suages(amzius) {
 amzius > 18 ? console.log("Suauges."):console.log("Vaikas.");
-
+}
+suages(amzius);
 
 
 
